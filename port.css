@@ -1,0 +1,156 @@
+body{
+    background-color: #0A192F;
+}
+
+#D1{
+    margin-left: 125px;
+    margin-top: 168px;
+    color: #CCD6F6;
+     /* font-family: 'Rubik Maze', cursive;; */
+    font-family: 'Calibre,Inter,"San Francisco","SF Pro Text",-apple-system,system-ui,sans-serif';
+    font-size: 3.5rem;
+    font-weight: 600;
+    line-height: 88px;
+    text-decoration: none solid rgb(204,214,246);
+    word-spacing: 0px;
+}
+#D2{
+    color: #828CA9;
+    margin-left: 127px;
+}
+
+#D3{
+    color: #CCD6F6;
+    margin-top: 279px;
+    margin-left: 300px;
+}
+#D4{
+    color: #8690AE;
+    margin-left: 502px;
+    margin-top: 30px;
+}
+#D5{
+    color: #8690AE;
+    margin-left: 502px;
+}
+#D6{
+    color: #8690AE;
+    margin-left: 502px;
+}
+#D7{
+    color: #8690AE;
+    margin-left: 502px;
+}
+
+img {
+    opacity: 0.5;
+    width: 200px;
+    margin-top: -646px;
+    margin-left: 987px;
+}
+  
+  
+  img:hover {
+    opacity: 1.0;
+  }
+
+#D8{
+    color: #CCD6F6;
+    margin-top: 71px;
+    margin-left: 80px;
+
+}  
+#D9{
+    color: #8690AE;
+    margin-left: 271px;
+}
+#D10{
+    color: #CCD6F6;
+    margin-top: 123px;
+    margin-left: 411px;
+}
+
+#D11{
+    margin-top: 421px;
+    margin-left: -480px;
+}
+#D11 img{
+    width: 383px;
+}
+#D12{
+    color: #8690AE;
+    margin-top: 85px;
+    margin-left: 503px;
+}
+#D13{
+    color: #8690AE;
+    margin-left: 505px;
+    margin-top: -155px;
+
+}
+#D14{
+    margin-top: 414px;
+    margin-left: -480px;
+
+}
+#D15{
+    color: #8690AE;
+    margin-top: -181px;
+    margin-left: 505px;
+
+}
+#D16 img{
+    width: 383px;
+    margin-top: 11px;
+    margin-left: 505px;
+}
+#D17{
+    color: #8690AE;
+    margin-top: 44px;
+    margin-left: 501px;
+
+}
+#D18{
+    margin-top: 419px;
+    margin-left: -485px;
+}
+#D18 img{
+    width: 383px;
+    
+}
+
+#D19{
+    margin-left: 598px;
+    margin-top: -176px;
+}
+#D20{
+    margin-left: 579px;
+    margin-top: 101px;
+
+}
+#D21{
+    color: #8690AE;
+    margin-left: 557px;
+    margin-top: 35px;
+    font-family: 'Abril Fatface', cursive;
+}
+#D22{
+    margin-left: 470px;
+    margin-top: 25px;
+}
+#D23{
+    margin-left: 621px;
+    margin-top: 56px;
+}
+#D0{
+    color:#5FF1D0 ;
+    margin-left: 597px;
+    margin-top: -10px;
+}
+#D25{
+    color:#5FF1D0 ;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 250px;
+}
+
